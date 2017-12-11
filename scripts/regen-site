@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./generate-tags
+./generate-categories
+./serve-production
+
